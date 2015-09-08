@@ -1,14 +1,14 @@
-<scheme name="ObsidianBlade" version="142" parent_scheme="Default">
+<scheme name="ObsidianBlade-DraculaFriendly" version="141" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="ANNOTATIONS_COLOR" value="db4c13" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="bd4a13" />
     <option name="CARET_COLOR" value="bbbbbb" />
-    <option name="CARET_ROW_COLOR" value="0" />
+    <option name="CARET_ROW_COLOR" value="666666" />
     <option name="CONSOLE_BACKGROUND_KEY" value="293134" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_COPIED" value="48c8a" />
@@ -37,7 +37,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="fbfbfb" />
     <option name="SELECTED_INDENT_GUIDE" value="e0e2e4" />
     <option name="SELECTED_TEARLINE_COLOR" value="804000" />
-    <option name="SELECTION_BACKGROUND" value="1b1b55" />
+    <option name="SELECTION_BACKGROUND" value="333333" />
     <option name="SELECTION_FOREGROUND" value="e0e2e4" />
     <option name="TEARLINE_COLOR" value="2f393c" />
     <option name="WHITESPACES" value="505050" />
@@ -48,7 +48,6 @@
         <option name="FOREGROUND" value="7ca8cf" />
       </value>
     </option>
-    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="20a054" />
@@ -372,7 +371,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ec9016" />
+        <option name="FOREGROUND" value="389c7e" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -499,7 +498,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -627,12 +625,6 @@
     <option name="STATIC_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="db6a21" />
-      </value>
-    </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ad57a5" />
-        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
